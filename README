@@ -1,5 +1,15 @@
 $Id$
 
+About This Fork
+----- ---- ----
+
+This fork was created from the official wireshark SVN repo at 
+http://anonsvn.wireshark.org/wireshark/trunk, by using git-svn.
+
+The master branch will always reflect mentioned SVN trunk, except
+for this addition to the README.
+
+
 General Information
 ------- -----------
 
