@@ -1277,6 +1277,8 @@ set(DISSECTOR_SRC
 	dissectors/packet-turbocell.c
 	dissectors/packet-turnchannel.c
 	dissectors/packet-tuxedo.c
+	dissectors/packet-tw.c
+	dissectors/packet-tw_hm.c
 	dissectors/packet-tzsp.c
 	dissectors/packet-ua.c
 	dissectors/packet-ua3g.c
